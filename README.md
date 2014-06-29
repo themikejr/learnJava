@@ -1,5 +1,4 @@
 # learnJava
-=================
 
 The goal of this repository is to increase my knowledge of java. This is worked out in two ways:
 
@@ -9,3 +8,4 @@ The goal of this repository is to increase my knowledge of java. This is worked 
 At the outset, the content of this repository is largely indebted to:
 
 * [Cave of Programming, Collections](http://www.youtube.com/playlist?list=PLB841C370FAFB8EC7)
+* [Oracle Java SE Documentation](http://docs.oracle.com/javase/7/docs/)
